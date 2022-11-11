@@ -1,2 +1,2 @@
 # movie-theater-api
-Movie Theater Project for Express Week Day 5
+Movie Theater Project for Express Week 6 Day 5
